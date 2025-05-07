@@ -2,7 +2,7 @@
 - 👀 I’m interested in Devops & MLOPS
 <h1 align="center">Hi there 👋, I'm [Mohammed Imran Ali </h1>
 
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Assistant+Manager++DevOps+%26+IT+Operations+Service+Delivery;AWS+Certified+Cloud+Architect;Python+%7C+Boto3+%7C+DevOps+Engineer" />
 </p>
 
