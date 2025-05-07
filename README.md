@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋, I'm [Your Name]</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Senior+IT+Support+Lead;AWS+Certified+Cloud+Architect;Python+%7C+Boto3+%7C+DevOps+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Assistan+Manager+Devops+IT+operations+Service+Delivery;AWS+Certified+Cloud+Architect;Python+%7C+Boto3+%7C+DevOps+Engineer" />
 </p>
 
 ---
