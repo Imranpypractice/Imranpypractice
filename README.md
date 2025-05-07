@@ -6,9 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Assistant+Manager++DevOps+%26+IT+Operations;AWS+Cloud+Architect;ITIL+V3+Certified;Python+Certified%7C+Boto3+%7C+DevOps+Engineer" />
 </p>
 
-<p align="center">
-  <img src="https://www.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_38669459.htm#fromView=keyword&page=1&position=2&uuid=6339567a-5fe5-4811-8e27-3b2ba45e88bb&query=Github+Cover" alt="Welcome Banner" />
-</p>
+
 
 ---
 
