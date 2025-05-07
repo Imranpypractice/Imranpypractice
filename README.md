@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Imranpypractice
 - 👀 I’m interested in Devops & MLOPS
-<h1 align="center">Hi there 👋, I'm [Mohammed Imran Ali]</h1>
+<h1 align="center">Hi there 👋, I'm [Mohammed Imran Ali </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=+Assistant+Manager+Devops+IT+operations+Service+Delivery;AWS+Certified+Cloud+Architect;Python+%7C+Boto3+%7C+DevOps+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=IT+Assistant+Manager+Devops+IT+operations+Service+Delivery;AWS+Certified+Cloud+Architect;Python+%7C+Boto3+%7C+DevOps+Engineer" />
 </p>
 
 ---
