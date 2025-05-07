@@ -26,6 +26,19 @@
   
 
 ⚡ Fun fact: I automate away repetitive tasks so others don’t have to!
+### 🧠 Developer Humor
+class DevOpsEngineer:
+    def __init__(self):
+        self.sleep = False
+        self.coffee = True
+        self.scripts = ["python", "bash", "yaml"]
+
+    def automate(self):
+        print("Everything. Even making coffee.")
+
+me = DevOpsEngineer()
+me.automate()
+
 
 ---
 
