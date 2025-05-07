@@ -13,10 +13,7 @@
 - IT support automation scripts
 - Python backend microservices
 - Linux/Unix
-#!/bin/bash
-echo "Deploying to production..."
-sleep 1
-echo "Just kidding. It's Friday 🤡"
+
 🌱 I’m currently learning:
 - Advanced DevOps pipelines (Jenkins, GitHub Actions)
 - Kubernetes
