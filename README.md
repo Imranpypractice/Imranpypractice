@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://programming-background-with-person-working-with-codes-computer.jpg](https://www.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_38669459.htm#fromView=keyword&page=1&position=2&uuid=6339567a-5fe5-4811-8e27-3b2ba45e88bb&query=Github+Cover)" alt="Welcome Banner" />
+  <img src="https://www.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_38669459.htm#fromView=keyword&page=1&position=2&uuid=6339567a-5fe5-4811-8e27-3b2ba45e88bb&query=Github+Cover" alt="Welcome Banner" />
 </p>
 
 ---
