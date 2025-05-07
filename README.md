@@ -13,6 +13,24 @@
 - IT support automation scripts
 - Python backend microservices
 - Linux/Unix
+- ### 👋 Welcome Script
+```bash
+# #!/bin/bash
+
+echo "🚀 Booting up profile..."
+sleep 1
+echo "🔐 Authenticating user: Assistant Manager - DevOps & IT Operations Service Delivery"
+sleep 1
+echo "🔍 Loading AWS cloud resources..."
+sleep 1
+echo "🐍 Initializing Python environment..."
+sleep 1
+echo "✅ Welcome to my GitHub space!"
+echo "📂 Projects: Automation, Infrastructure as Code, Python Scripts, IT Support Tools"
+echo "🌐 Connect: LinkedIn | Portfolio | Email"
+echo "💡 Tip: Scroll down for GitHub stats, tools I use, and a bit of humor!"
+
+
 
 🌱 I’m currently learning:
 - Advanced DevOps pipelines (Jenkins, GitHub Actions)
