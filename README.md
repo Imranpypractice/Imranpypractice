@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Assistant+Manager++DevOps+%26+IT+Operations;AWS+Cloud+Architect;ITIL+V3+Certified;Python+Certified%7C+Boto3+%7C+DevOps+Engineer" />
 </p>
 
+<p align="center">
+  <img src="https://programming-background-with-person-working-with-codes-computer.jpg" alt="Welcome Banner" />
+</p>
+
 ---
 
 🔭 I’m currently working on:  
