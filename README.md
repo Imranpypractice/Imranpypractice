@@ -45,30 +45,39 @@ echo "💡 Tip: Scroll down for GitHub stats, tools I use, and a bit of humor!"
 - LinkedIn: [www.linkedin.com/in/imran-ali-mohammed]
   
 
-⚡ Fun fact: I automate away repetitive tasks so others don’t have to!
-### 🧠 Developer Humor
-class DevOpsEngineer:
-    def __init__(self):
-        self.sleep = False
-        self.coffee = True
-        self.scripts = ["python", "bash", "yaml"]
+<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
 
-    def automate(self):
-        print("Everything. Even making coffee.")
-
-me = DevOpsEngineer()
-me.automate()
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Assistant+Manager+-+DevOps+%26+IT+Operations+Service+Delivery;AWS+Certified+Cloud+Architect;Python+%7C+Boto3+%7C+DevOps+Engineer" />
+</p>
 
 ---
-### 🛠️ Tech Stack
 
-[Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-[AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-[Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-[Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-[Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-[Okta](https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white)
+🔭 I’m currently working on:  
+- AWS infrastructure automation (CloudFormation, Terraform, Boto3)  
+- IT operations optimization and service delivery improvements  
+- Python backend microservices and DevOps tooling
+
+🌱 I’m currently learning:  
+- Advanced CI/CD pipelines (Jenkins, GitHub Actions)  
+- Kubernetes and container orchestration
+
+📫 How to reach me:  
+- Email: [YourEmail@example.com]  
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)  
+- Portfolio: [yourwebsite.com](https://yourwebsite.com)
+
+⚡ Fun fact: I automate away repetitive tasks so others don’t have to!
+
+---
+
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Okta](https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white)
 
 ---
 
@@ -77,10 +86,6 @@ me.automate()
   <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=YourGitHubUsername&theme=radical" />
 </p>
-
-
----
-
 
 <!---
 Imranpypractice/Imranpypractice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
